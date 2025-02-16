@@ -11,6 +11,11 @@ Este proyecto es una API para gestionar usuarios y sucursales.
 Para construir y levantar el proyecto, ejecuta los siguientes comandos:
 
 ```sh
+npm install
+npm run build
+```
+
+```sh
 docker compose build
 docker compose up
 ```
