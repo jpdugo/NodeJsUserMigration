@@ -13,11 +13,7 @@ Para construir y levantar el proyecto, ejecuta los siguientes comandos:
 ```sh
 npm install
 npm run build
-```
-
-```sh
-docker compose build
-docker compose up
+npm start
 ```
 
 ## Probar el Funcionamiento
