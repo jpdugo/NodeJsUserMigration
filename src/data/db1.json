@@ -1,0 +1,30 @@
+{
+    "users": [
+        { 
+            "id": "0001", 
+            "name": "Juan", 
+            "lastname": "Pérez", 
+            "email": "juanperez@mail.com", 
+            "phone": "123456789", 
+            "branch": "Sede Central", 
+            "isActive": true 
+        }
+    ],
+
+    "branches": [
+        { 
+            "id": "0001", 
+            "name": "Sede Central", 
+            "address": "123 Main St", 
+            "city": "Metropolis", 
+            "isActive": true 
+        },
+        { 
+            "id": "0002", 
+            "name": "Sede Secundaria", 
+            "address": "456 Side St", 
+            "city": "Gotham", 
+            "isActive": true 
+        }
+    ]   
+}
